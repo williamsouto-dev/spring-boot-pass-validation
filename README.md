@@ -115,6 +115,10 @@ Services url:
 * [Prometheus](http://localhost:9090)
 * [Grafana](http://localhost:3000)
 
+<a href="https://i.postimg.cc/fysnzmtP/1-prometheus.png"><img src="https://i.postimg.cc/fysnzmtP/1-prometheus.png" width="200" height="120" alt="Grafana"/></a>
+<a href="https://i.postimg.cc/qMyk7rLC/2-prometheus.png"><img src="https://i.postimg.cc/qMyk7rLC/2-prometheus.png" width="200" height="120" alt="Grafana"/></a>
+<a href="https://i.postimg.cc/4xGX70L2/3-prometheus.png"><img src="https://i.postimg.cc/4xGX70L2/3-prometheus.png" width="200" height="120" alt="Grafana"/></a>
+
 ### Optional - View metrics in grafana
 
 <p>Prometheus monitors the spring boot application. Grafana views Prometheus as a data source.</p>
